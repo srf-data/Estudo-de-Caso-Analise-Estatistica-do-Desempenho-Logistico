@@ -64,4 +64,4 @@ Estes 8 pedidos representam a **Melhor Prática** da empresa, pois conseguem ser
 ## Código R para Consulta
 
 O código R utilizado para gerar as estatísticas e os gráficos pode ser consultado no arquivo:
-[`analise_logistica.R`](link/para/seu/codigo.R)
+[`analise_logistica.R`](https://github.com/srf-data/Estudo-de-Caso-Analise-Estatistica-do-Desempenho-Logistico/blob/main/logistica_manipulacao.R)
